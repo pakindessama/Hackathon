@@ -145,7 +145,7 @@ function NO2() {
 </script>
 <script>
 function YES2() {
-  document.getElementById("nose").innerHTML = "YES";
+  document.getElementById("travel").innerHTML = "YES";
  document.getElementById("no2").style.display = "none";
  document.getElementById("yes2").style.display = "none";
  document.getElementById("nose_box").style.display = "none";
@@ -154,7 +154,7 @@ function YES2() {
 </script>
 <script>
 function NO3() {
-  document.getElementById("nose").innerHTML = "YES";
+  document.getElementById("travel").innerHTML = "YES";
  document.getElementById("no3").style.display = "none";
  document.getElementById("yes3").style.display = "none";
  document.getElementById("travel_box").style.display = "none";
@@ -409,7 +409,7 @@ Have you been recently in a city or country where COVID-19 has been declared? </
 					  </br>
 				Runny nose : <span id="nose" style="color:red;font-family:arial black;" >---</span>
 					  </br>
-					  Breathing frequency : <span id="respitory" style="color:red;font-family:arial black;" >---</span>
+					  Breath rate : <span id="respitory" style="color:red;font-family:arial black;" >---</span>
 					  </br>
 					  
 					  Blood pressure: <span id="blood" style="color:red;font-family:arial black;" >---</span>

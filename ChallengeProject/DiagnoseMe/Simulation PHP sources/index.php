@@ -156,7 +156,7 @@ var deltad = Math.ceil((dureed * 500) / nd);
 <br>4.	Get your results.</b>
 <br>If the test results is positive. Do not worry an ambulance will come and assist you for further examination.Stay home.
 <br>If the test results is nagative see preventions guide.
-  <br><br>  <a href="test.php"> <input type="button" style="color:white;  cursor:pointer;font-size:14px;background:red;border:solid;border-color:red"  class="btn btn-primary " value="DiagnoseMe" /></a>
+  <br><br> <br> <a href="test.php"> <input type="button" style="color:white;  cursor:pointer;font-size:16px;background:red;border:solid;border-color:red"  class="btn btn-primary " value="DiagnoseMe" /></a>
 	</i>  
 	   </small></h6>
 	    </div>
@@ -175,10 +175,9 @@ var deltad = Math.ceil((dureed * 500) / nd);
 <br>&bull; Blood pressure
 <br>&bull; Travel information
 
-
-</b><br><br><br>
+<br><br>
 	
-		<a href="prevent.php"> <input type="button" style="color:white;  cursor:pointer;font-size:14px;"  class="btn btn-success " value="How to prevent ?" /></a>
+		<a href="prevent.php"> <input type="button" style="color:white;  cursor:pointer;font-size:16px;"  class="btn btn-success " value="How to prevent ?" /></a>
 		
 	   </small></h6>
 	  
